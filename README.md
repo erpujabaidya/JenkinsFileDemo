@@ -1,7 +1,7 @@
 # JenkinsFileDemo
 
 
-#It is a demo of pipeline using CI/CD Tools (Jenkins) , Code Analysis tool(SonarQube) , Maven , Tomcat, Docker
+It is a demo of pipeline using CI/CD Tools (Jenkins) , Code Analysis tool(SonarQube) , Maven , Tomcat, Docker
 , Jfrog
 
 
